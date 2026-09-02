@@ -206,7 +206,8 @@ Mapan/
 ├── ARCHITECTURE_AND_PLANNING.md # Technical specification & system design document
 ├── PRD (1).md                   # Product Requirements Document (PRD v1.0)
 ├── RESEARCH_PACKAGE_v1.md       # Empirical literature review & ablation specifications
-├── Towards_AI_Driven_Personality_Assessment_IEEE.docx # Formatted IEEE research paper
+├── ResearchPaper2.docx          # Formatted IEEE research paper
+├── mapan.pptx                   # Project presentation slides
 └── README.md
 ```
 
@@ -310,7 +311,8 @@ Mapan implements privacy and governance guardrails aligned with India's **Digita
 
 ## 📄 Research Artifacts & Publications
 
-- 📖 **IEEE Research Paper**: `Towards_AI_Driven_Personality_Assessment_IEEE.docx`
+- 📖 **IEEE Research Paper**: `ResearchPaper2.docx`
+- 📊 **Presentation Slides**: `mapan.pptx`
 - 📑 **Product Requirements Document**: [PRD (1).md](PRD%20(1).md)
 - 🏗️ **Architecture & Planning Specification**: [ARCHITECTURE_AND_PLANNING.md](ARCHITECTURE_AND_PLANNING.md)
 - 🔬 **Research Literature & Empirical Reference Package**: [RESEARCH_PACKAGE_v1.md](RESEARCH_PACKAGE_v1.md)
